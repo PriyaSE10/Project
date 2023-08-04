@@ -1,0 +1,31 @@
+Neha Verma
+123456789 
+abc@gmail.com
+Noida, Electornic city
+Online Portfolio/Professional Website (Optional)
+
+PROFESSIONAL SUMMARY
+2-3 sentences or 2-3 bullet points that include your years of professional experience, accomplishments, top skills and strengths as they relate to the position and what you’re looking for in your next role.
+EXPERIENCE
+Title									     Start Date - End Date (Current)
+Company Name, Location							                                          
+    • (Action verb) + what you did (more detail) + reason, outcome or quantified results
+    • (Action verb) + what you did (more detail) + reason, outcome or quantified results
+    • (Action verb) + what you did (more detail) + reason, outcome or quantified results
+    • (Action verb) + what you did (more detail) + reason, outcome or quantified results
+Title									                      Start Date - End Date
+
+
+SKILLS
+[HTML] | [CSS] | [JAVASCRIPT] | [REACT] | [NODE-JS]
+
+EDUCATION
+Degree Type, Major (if applicable)    					 Month/Year of Completion
+Institution Name
+
+CERTIFICATIONS
+    • [Certification], [Certifying organization] - [Year earned]
+
+AWARDS/RECOGNITIONS/VOLUNTEER WORK - (OPTIONAL)
+    • Award, recognition or volunteer work								Date                                  
+    • Award, recognition or volunteer work								Date

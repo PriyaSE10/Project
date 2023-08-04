@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio Website!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Playfair+Display&family=Potta+One&family=Roboto:ital,wght@1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Noto+Serif:ital,wght@1,900&family=Playfair+Display&family=Potta+One&family=Roboto:ital,wght@1,700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- <link rel="stylesheet" href="Potto One" /> -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar sidebarGo">
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="My Intro.html">My Intro</a></li>
+            <li><a href="Services.html">Services</a></li>
+            <li><a href="Blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="main">
+        <div class="hamburger">
+          <img class="ham" src="ham.png" alt="" width="23" />
+          <img class="close" src="close.png" alt="" width="21" />
+        </div>
+        <div class="Contact">
+          <form class="for">
+            <h1>This is my Contact Form!</h1>
+            <div class="f1">
+              <label for="exampleInputEmail1" class="form-label">Name : </label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text"></div>
+            </div>
+            <div class="f1">
+              <label for="exampleInputEmail1" class="form-label">Email address :</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text">We'll never share your email and phone with anyone else.</div>
+            </div>
+            <div class="f1">
+              <label for="exampleInputPassword1" class="form-label">Phone :</label>
+              <input type="phone" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="f1 form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1">
+              <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            </div>
+            <button type="submit" class="btn btn">Submit</button>
+          </form>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
